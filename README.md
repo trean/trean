@@ -2,7 +2,7 @@
 
 There is nothing special happening for now, so just look at a random picture with a cat.
 
-![cat](https://cataas.com/cat/gif)
+![cat](http://cataas.com/cat/gif)
 
 <!--
 **trean/trean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
